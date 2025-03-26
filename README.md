@@ -1,2 +1,2 @@
-# Mini-Projects
-The projects are beginner friendly, built focusing on the core concepts of HTML, CSS and javaScript.
+# Simon Say's Game
+This game tests your ability to remember patterns.

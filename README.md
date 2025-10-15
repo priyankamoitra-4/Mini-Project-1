@@ -1,4 +1,7 @@
 # Simon Say's Game
-This game tests your ability to remember patterns.
+Overview
 
-Focused on using the core concepts of HTML, CSS and javaScript.
+Simon say's game tests your ability to remember patterns, applied the concepts learnt from front-end.
+
+Tech Stacks : 
+HTML, CSS and javaScript.
